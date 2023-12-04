@@ -1,5 +1,13 @@
 package com.musicApp.musicStreamingApiSystem.Model;
 
 public enum Genre {
-    POP,ROCK,BOLLYWOOD,TOLLYWOOD,OLD,RETRO
+    BOLLYWOOD,
+    ROCK,
+    HIP_HOP,
+    FOLK_MUSIC,
+    INDIAN_POP,
+    FUNK,
+    COUNTRY,
+    CLASSICAL,
+    JAZZ
 }
